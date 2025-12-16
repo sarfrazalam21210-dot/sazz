@@ -1,33 +1,35 @@
-# Hi 👋, I'm Sarfraz Alam
+# Hi 👋, I'm Sazz
 
-🎓 Student & Aspiring Software Developer  
-💻 Learning Python, Web Development & App Development  
-🚀 Passionate about building real-world projects  
+🎓 Student | Aspiring Software Developer  
+💻 Learning Basic Python & HTML  
+🚀 Building small projects to improve my skills  
 
 ---
 
 ## 🛠️ Skills
-- Python
-- HTML, CSS
+- Python (Basics)
+- HTML
 - Git & GitHub
-- Basic JavaScript
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
 ## 📚 Currently Learning
-- Advanced Python
-- Backend Development
-- GitHub Best Practices
+- Python fundamentals
+- HTML structure & layouts
+- Basic programming logic
+- Project-based learning
 
 ---
 
 ## 📂 Projects
-- Beginner Python Programs
-- Web Development Practice Projects
-- Mini Apps & Tools
+- Small Python programs
+- Beginner HTML pages
+- Practice mini-projects
+
+---
+
+## 🎯 Goal
+To improve my programming skills and become a skilled developer through continuous learning and practice.
 
 ---
 
