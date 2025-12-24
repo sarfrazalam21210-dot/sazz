@@ -1,37 +1,51 @@
-# Hi 👋, I'm Sazz
+# 👋 Hi, I'm Sarfraz Alam
 
-🎓 Student | Aspiring Software Developer  
-💻 Learning Basic Python & HTML  
-🚀 Building small projects to improve my skills  
+🎓 Student | Class 9  
+💻 Learning Python & Programming  
+🚀 Future Data Scientist  
 
 ---
 
-## 🛠️ Skills
-- Python (Basics)
-- HTML
+## 👨‍💻 About Me
+- I am a school student passionate about **technology and data**
+- Currently learning **Python programming**
+- Planning to complete **Diploma in Engineering → B.Sc → Internship**
+- I love solving problems and building small projects
+
+---
+
+## 🛠️ Skills (Learning)
+- Python (Beginner)
+- Basic Programming Logic
 - Git & GitHub
+- Computer Fundamentals
 
 ---
 
 ## 📚 Currently Learning
-- Python fundamentals
-- HTML structure & layouts
-- Basic programming logic
-- Project-based learning
+- Python Basics
+- Problem Solving
+- Mathematics (for programming & data science)
+
+---
+
+## 🎯 Future Goals
+- Become a **Data Scientist**
+- Build real-world projects
+- Learn Data Analysis & Machine Learning
+- Get internships and industry experience
 
 ---
 
 ## 📂 Projects
-- Small Python programs
-- Beginner HTML pages
-- Practice mini-projects
+- Python basic programs (coming soon 🚀)
+- Mini projects (calculator, quiz, games)
 
 ---
 
-## 🎯 Goal
-To improve my programming skills and become a skilled developer through continuous learning and practice.
+## 🌱 Quote I Believe In
+> "Start early, stay consistent, and success will follow."
 
 ---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/sazz
+⭐ Thanks for visiting my profile!
